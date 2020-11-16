@@ -4,7 +4,7 @@
 ![alt text](https://github.com/ItlizePD/HibernateDemo/blob/main/homepage.png?raw=true)
 
 ## item
-![alt text](https://github.com/ItlizePD/HibernateDemo/blob/main/itemlist.png?raw=true)
+![alt text](https://github.com/ItlizePD/HibernateDemo/blob/main/items.png?raw=true)
 - add new item
 - delete old item
 - add item into cart
